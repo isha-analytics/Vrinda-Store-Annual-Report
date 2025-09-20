@@ -64,8 +64,8 @@ Slicers for interactive filtering
 
 Conditional Formatting
 
-<img src=" "/>
-
 Data Validation
 
 Dynamic Dashboards
+
+<img src="https://github.com/isha-analytics/Vrinda-Store-Annual-Report/blob/main/vrindascreenshot.png"/>
